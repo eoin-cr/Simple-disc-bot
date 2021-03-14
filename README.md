@@ -8,6 +8,7 @@ and you must also create a .env file inside the same folder this bots code is st
 
 
 \# .env
+
 DISCORD_TOKEN={your-bot-token}
 
 
